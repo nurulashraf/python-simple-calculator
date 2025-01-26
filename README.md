@@ -51,8 +51,7 @@ The result is: 8.0
 python-simple-calculator/
 ├── README.md          # Project description and instructions
 ├── calculator.py      # Main calculator script
-├── requirements.txt   # Dependencies (if any, optional)
-└── examples/          # Example inputs and outputs (optional)
+└── requirements.txt   # Dependencies
 ```
 
 ## License
