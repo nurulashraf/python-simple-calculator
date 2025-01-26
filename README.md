@@ -26,7 +26,7 @@ A simple Python-based calculator program with a user-friendly menu. This program
    ```
 3. Run the program:
    ```bash
-   python calculator.py
+   python src/calculator.py
    ```
 
 4. Follow the on-screen instructions to perform calculations.
@@ -50,12 +50,10 @@ The result is: 8.0
 ```
 python-simple-calculator/
 ├── README.md          # Project description and instructions
-├── calculator.py      # Main calculator script
+├── src/               # Source code folder
+│   └── calculator.py  # Main calculator script
 └── requirements.txt   # Dependencies
 ```
 
 ## License
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute it as per the terms of the license.
-
-## Contributions
-Contributions are welcome! Feel free to open an issue or submit a pull request to improve the project.
