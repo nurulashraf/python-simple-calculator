@@ -18,7 +18,7 @@ A simple Python-based calculator program with a user-friendly menu. This program
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/python-simple-calculator.git
+   git clone https://github.com/nurulashraf/python-simple-calculator.git
    ```
 2. Navigate to the project directory:
    ```bash
